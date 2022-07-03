@@ -2,7 +2,7 @@
 <br />
 
 - 📚 I'm an [@Epitech](https://epitech.eu) student and software developer [@PoC Innovation](https://gitbub.com/PoCInnovation)
-- 🔭 I’m currently working on [InterPlanetaryComputing](https://github.com/PoCInnovation/InterPlanetaryComputing) 🚀
+- 🔭 I’m currently working on [InterPlanetaryComputing](https://github.com/PoCInnovation/InterPlanetaryCloud) 🚀
 - 🌱 I’m currently learning VueJS
 - 📫 How to reach me: leo.dubosclard@epitech.eu
 
