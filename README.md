@@ -1,7 +1,7 @@
 <h1 align="center">Hi there ! I'm Léo Dubosclard</h1>
 <br />
 
-- 📚 I'm an [@Epitech](https://epitech.eu) student, developer at RevoltGames and software developer [@PoC Innovation](https://github.com/PoCInnovation)
+- 📚 I'm an [@Epitech](https://epitech.eu) student, developer at [@RevoltGames](https://github.com/revoltgames) and software developer [@PoC Innovation](https://github.com/PoCInnovation)
 - 🔭 I’m currently working on [InterPlanetaryComputing](https://github.com/PoCInnovation/InterPlanetaryCloud) 🚀
 - 🌱 I’m currently learning VueJS
 - 📫 How to reach me: leo.dubosclard@epitech.eu
