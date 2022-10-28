@@ -3,7 +3,7 @@
 
 - 📚 I'm an [@Epitech](https://epitech.eu) student, developer [@RevoltGames](https://github.com/revoltgames) and R&D developer [@PoC Innovation](https://github.com/PoCInnovation)
 - 🔭 I’m currently working on [SismoC](https://github.com/PoCInnovation/SismoC) 🚀
-- 🌱 I’m currently learning VueJS, Solidity, Go
+- 🌱 I’m currently learning Solidity, Go
 - 📫 How to reach me: leo.dubosclard@epitech.eu
 
 # Socials
