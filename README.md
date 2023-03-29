@@ -2,8 +2,8 @@
 <br />
 
 - 📚 I'm a Teacher and Student at [@Epitech](https://epitech.eu) and R&D developer [@PoCInnovation](https://github.com/PoCInnovation)
-- 🔭 I’m currently working on [SismoC](https://github.com/PoCInnovation/SismoC) 🚀
-- 🌱 I’m currently learning Solidity, Go
+- 🔭 I’m currently working on [...]() 🚀
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: leo.dubosclard@epitech.eu
 
 # Socials
