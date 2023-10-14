@@ -3,7 +3,7 @@
 
 - 📚 I'm a Backend developer at [@Revolt Games](https://www.revoltgames.io/) and Student at [@Epitech](https://epitech.eu)
 - 🔭 I’m currently working on [Neopolis](https://www.neopolis.io/) 🚀
-- 🌱 I’m currently learning Swift 🍏
+- 🌱 I’m currently learning NestTS 🐺 and Swift 🍏
 - 📫 How to reach me: leo.dubosclard@epitech.eu
 
 # Socials 💬
