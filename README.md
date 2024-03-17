@@ -11,6 +11,7 @@
 <a href="https://linkedin.com/leo-dubosclard">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://dev.to/zerlock">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 <a href="https://medium.com/@leo27.dubosclard">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="https://passeport.dev/p/cf4e34b0-2bac-426f-87cf-3388ec70fe5a">![Passeport.dev](https://img.shields.io/badge/passeport-dev/?style=for-the-badge)</a>
 
 # Stack ✨
 
