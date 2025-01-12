@@ -1,6 +1,8 @@
 ###
 
-<h2>Heyo ✌️, I'm Léo</h2>
+<h3 align="center">Heyo ✌️, I'm Léo</h3>
+
+<!--
 
 ###
 
@@ -13,4 +15,13 @@
 
 ###
 
-<p>✉️ You can contact me through <a href="mailto:leo.dubosclard@epitech.eu" target="_blank">email</a> or <a href="https://www.linkedin.com/in/leo-dubosclard" target="_blank">linkedin</a></p>
+-->
+
+-------------
+<p align="center">
+  <img width="70%" src="https://i.ibb.co/ySyqGxX/English-Leo-Dubosclard-CV-012025.jpg" alt="Leo's CV">
+</p>
+
+###
+
+<p align="center">✉️ You can contact me through <a href="mailto:leo.dubosclard@epitech.eu" target="_blank">email</a> or <a href="https://www.linkedin.com/in/leo-dubosclard" target="_blank">linkedin</a></p>
